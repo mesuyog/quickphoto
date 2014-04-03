@@ -4,3 +4,7 @@ this is also second commit
 
 
 CODE THAT DOESNOT WORK
+
+
+
+git gui commit in git
